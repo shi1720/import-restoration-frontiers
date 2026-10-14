@@ -16,7 +16,7 @@
   "release_levels_per_network": 5,
   "annual_scenarios": 96,
   "data_source": "CEPII BACI HS17 202601",
-  "manuscript_status": "author review required; not submitted",
-  "acceptance_status": "no claim",
-  "manuscript_sha256": "a6a0280e37d3343b60c5f3271c0b8242019b34c40fa9b171730e90c7830899a4"
+  "manuscript_status": "Submitted to ISoT 2027 through CEPR HUB on 2026-10-14; portal confirmed Application Complete",
+  "acceptance_status": "pending organizer review",
+  "manuscript_sha256": "52e878227d16b938458f8b4a5648314cc9d6dd1a6629b590dde2b59796ae33fd"
 }

@@ -27,13 +27,13 @@ python src/fetch_baci.py
 
 The downloader retrieves selected members of the official ZIP with HTTP ranges, validates each member's CRC32, and filters the six research product codes. It transfers approximately 795 MB to recover the annual source members, retaining only about 3 MB of selected data and metadata. It uses up to 24 simultaneous range requests. The archived uncompressed-member and selected-file SHA-256 hashes are in `data/source_manifest.json`. If the source archive changes, investigate the revision before comparing results.
 
-A local manuscript source is included in the deliverable archive. To compile it when available, install Tectonic from its official distribution and run:
+The manuscript source and PDF are included. To compile it, install Tectonic from its official distribution and run:
 
 ```bash
 python reproduce.py --verify --paper
 ```
 
-The public repository contains code, selected data, and numerical/visual results. The manuscript and submission materials remain outside public Git tracking pending author review. No conference submission or acceptance is claimed.
+The paper was submitted to ISoT 2027 through CEPR HUB on 14 October 2026; the portal confirmed the application complete. Acceptance is pending. The repository contains the submitted manuscript, source, code, selected data, and numerical/visual results. Private account and submission-receipt materials are excluded.
 
 ## Layout
 
