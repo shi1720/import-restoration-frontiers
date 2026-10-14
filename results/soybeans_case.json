@@ -1,0 +1,14 @@
+[
+  {
+    "route_cap_factor": null,
+    "rho95": 0.0069618924073705495,
+    "rho_margin": 1e-07,
+    "withdrawal_tonnes": 157229.877900814
+  },
+  {
+    "route_cap_factor": 5,
+    "rho95": 0.006961892407368719,
+    "rho_margin": 1e-07,
+    "withdrawal_tonnes": 177939.46013412692
+  }
+]

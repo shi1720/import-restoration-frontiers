@@ -1,0 +1,24 @@
+LITERATURE AND NOVELTY AUDIT - 14 October 2026
+
+Search scope: official CEPR, CEPII, IMF, World Bank, NBER, publisher pages, arXiv and Crossref. Queries covered import diversification, shared backup capacity, food trade reallocation, maximum flow/minimum cuts, no-displacement, exporter expansion, and incumbent supplier switching. Full downloaded texts inspected for Ahn and Tan (2025), Gaskin et al. (2026), and Gupta et al. (2026). Erokhin (2026) publisher HTML inspected; its PDF was inaccessible. Crossref metadata for nine DOI references checked against primary documents.
+
+Rejected broad novelty claims:
+1. Diversification improves resilience: established, including Ahn and Tan (2025).
+2. Countries compete for shared suppliers: explicit in Erokhin (2026); not new.
+3. Trade reallocation and production expansion in an LP: explicit in Gupta et al. (2026); not new.
+4. Maximum flow as network resilience: classical Ford and Fulkerson (1956); applications already exist in trade.
+5. Optimal transport infers trade costs: Gaskin et al. (2026) already studies agriculture and Ukraine. Its methods explicitly discuss row/column cost indeterminacy; that cannot be claimed as an overlooked flaw.
+
+Narrow proposed contribution:
+An inverse trade stress test that quantifies the difference between maintaining every surviving bilateral delivery and maintaining every importer's surviving total, while jointly imposing global export budgets. The expansion/reassignment frontier reports additional export availability REQUIRED under explicit support and protection assumptions. It does not infer observed spare capacity from trade values or physical production from gross exports. Full-restoration cut characterizations and a lower bound on required incumbent shipment reassignment provide interpretable diagnostics; the underlying optimization theory is established. Empirical coverage includes six separately analyzed HS17 products, 2017-2024, with a fixed 2021 benchmark and declared Ukraine / Russia-plus-Ukraine removal scenarios. A 2022 description tests the relevance of frozen support rather than asserting causal validation.
+
+Closest overlaps:
+Erokhin (2026): shared supplier budgets across 14 import markets, optimization and shocks. Distinction: inverse required expansion, comprehensive importer protection, route-versus-importer protection comparison, minimum shipment withdrawal, and full global product networks. Strong overlap in broad motivation must be acknowledged.
+Gupta et al. (2026), arXiv:2606.30685: MRIO LP, endogenous reallocation and expansion, unequal final-demand losses. Distinction: a simpler physical-quantity trade accounting model imposes explicit no-additional-import-loss constraints and solves the inverse expansion/reassignment problem, rather than maximizing output with residual distributional losses. Their production input linkage model is richer than ours; ours is not a replacement.
+Puma et al. (2015), Verschuur et al. (2026): food-network vulnerability and compound shocks. Distinction: protection semantics and certified inverse frontiers. No claim to discovering international food-system vulnerability.
+
+Prior-manuscript overlap:
+Reviewed first two pages of all 29 top-level prior PDFs in Downloads/research, plus catalog. Prior subjects include agent contracts, systems, uncertainty, ranking, robot controls and medical information. No prior top-level paper studies international agricultural trade or this dataset. Several use mathematical feasibility/certification; classical matching/flow theory must not be represented as newly discovered. This is an abstract-level overlap screen, not a forensic full-text plagiarism audit.
+
+Novelty limits:
+Search cannot prove that no unpublished, non-indexed or differently described paper contains an equivalent formulation. Claim an application and measurement contribution, not a new universal theorem, equilibrium model, causal effect, patentability or guaranteed conference acceptance.

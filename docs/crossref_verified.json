@@ -1,0 +1,549 @@
+[
+  {
+    "doi": "10.1038/s41467-026-69694-5",
+    "title": "Modelling global trade with optimal transport",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5644-4431",
+        "authenticated-orcid": false,
+        "given": "Thomas",
+        "family": "Gaskin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guven",
+        "family": "Demirel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marie-Therese",
+        "family": "Wolfram",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew",
+        "family": "Duncan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          19
+        ]
+      ]
+    },
+    "container": [
+      "Nature Communications"
+    ],
+    "volume": "17",
+    "page": null,
+    "article": "2947"
+  },
+  {
+    "doi": "10.3390/su18199696",
+    "title": "AI-Guided Diversification of Green Technology Supply Chains",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5191-0579",
+        "authenticated-orcid": false,
+        "given": "Dmitry",
+        "family": "Erokhin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "International Institute for Applied Systems Analysis, 2361 Laxenburg, Austria"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ]
+    },
+    "container": [
+      "Sustainability"
+    ],
+    "volume": "18",
+    "page": "9696",
+    "article": null
+  },
+  {
+    "doi": "10.5089/9798229011419.001",
+    "title": "Supply Chain Diversification and Resilience",
+    "authors": [
+      {
+        "given": "JaeBin",
+        "family": "Ahn",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1311-941X",
+        "authenticated-orcid": true,
+        "given": "Brandon",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "container": [
+      "IMF Working Papers"
+    ],
+    "volume": "2025",
+    "page": "1",
+    "article": null
+  },
+  {
+    "doi": "10.1088/1748-9326/10/2/024007",
+    "title": "Assessing the evolving fragility of the global food system",
+    "authors": [
+      {
+        "given": "Michael J",
+        "family": "Puma",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Satyajit",
+        "family": "Bose",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "So Young",
+        "family": "Chon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Benjamin I",
+        "family": "Cook",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          1
+        ]
+      ]
+    },
+    "container": [
+      "Environmental Research Letters"
+    ],
+    "volume": "10",
+    "page": "024007",
+    "article": null
+  },
+  {
+    "doi": "10.4153/CJM-1956-045-5",
+    "title": "Maximal Flow Through a Network",
+    "authors": [
+      {
+        "suffix": "Jr.",
+        "given": "L. R.",
+        "family": "Ford",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D. R.",
+        "family": "Fulkerson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1956
+        ]
+      ]
+    },
+    "container": [
+      "Canadian Journal of Mathematics"
+    ],
+    "volume": "8",
+    "page": "399-404",
+    "article": null
+  },
+  {
+    "doi": "10.1016/j.jinteco.2024.104011",
+    "title": "Is US trade policy reshaping global supply chains?",
+    "authors": [
+      {
+        "given": "Caroline",
+        "family": "Freund",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aaditya",
+        "family": "Mattoo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alen",
+        "family": "Mulabdic",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michele",
+        "family": "Ruta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11
+        ]
+      ]
+    },
+    "container": [
+      "Journal of International Economics"
+    ],
+    "volume": "152",
+    "page": "104011",
+    "article": "104011"
+  },
+  {
+    "doi": "10.3386/w31739",
+    "title": "Resilience in Vertical Supply Chains",
+    "authors": [
+      {
+        "given": "Gene",
+        "family": "Grossman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elhanan",
+        "family": "Helpman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alejandro",
+        "family": "Sabal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "container": [],
+    "volume": null,
+    "page": null,
+    "article": null
+  },
+  {
+    "doi": "10.1371/journal.pclm.0000825",
+    "title": "Assessing the resilience of global grain supplies to compound climatic and non-climatic shocks",
+    "authors": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5277-4353",
+        "authenticated-orcid": true,
+        "given": "Jasper",
+        "family": "Verschuur",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anna",
+        "family": "Murgatroyd",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yiorgos",
+        "family": "Vittis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Aline",
+        "family": "Mosnier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Obersteiner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8859-7232",
+        "authenticated-orcid": true,
+        "given": "Charles J.",
+        "family": "Godfray",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jim W.",
+        "family": "Hall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ]
+    },
+    "container": [
+      "PLOS Climate"
+    ],
+    "volume": "5",
+    "page": "e0000825",
+    "article": null
+  },
+  {
+    "doi": "10.1088/1748-9326/ac1a9b",
+    "title": "A complex network framework for the efficiency and resilience trade-off in global food trade",
+    "authors": [
+      {
+        "given": "Deniz Berfin",
+        "family": "Karakoc",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0540-8438",
+        "authenticated-orcid": false,
+        "given": "Megan",
+        "family": "Konar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          23
+        ]
+      ]
+    },
+    "container": [
+      "Environmental Research Letters"
+    ],
+    "volume": "16",
+    "page": "105003",
+    "article": null
+  }
+]

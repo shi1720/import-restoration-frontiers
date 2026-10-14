@@ -1,0 +1,25 @@
+product,shock,policy,rho_uniform95,no_alternative_importers,no_alternative_loss_share
+Wheat,Ukraine,frozen,0.10792583992926058,,
+Wheat,Ukraine,swaps,0.10789506069831016,,0.0
+Wheat,Black Sea,frozen,0.32269319259672813,,
+Wheat,Black Sea,swaps,0.3226427206311944,,0.0
+Maize,Ukraine,frozen,0.1302414909764967,,
+Maize,Ukraine,swaps,0.13021303412568572,,0.0
+Maize,Black Sea,frozen,0.1489778586338529,,
+Maize,Black Sea,swaps,0.14894873421173307,,0.0
+Barley,Ukraine,frozen,inf,,
+Barley,Ukraine,swaps,inf,818,0.003867418082892911
+Barley,Black Sea,frozen,inf,,
+Barley,Black Sea,swaps,inf,"659,818",0.002193347191032387
+Soybeans,Ukraine,frozen,0.1870600130473764,,
+Soybeans,Ukraine,swaps,0.0069618924073708705,,0.0
+Soybeans,Black Sea,frozen,inf,,
+Soybeans,Black Sea,swaps,inf,68,4.672311943340978e-10
+Sunflower oil,Ukraine,frozen,inf,,
+Sunflower oil,Ukraine,swaps,inf,92,6.435851560883475e-10
+Sunflower oil,Black Sea,frozen,inf,,
+Sunflower oil,Black Sea,swaps,inf,"92,104,795",0.000288096076826041
+Urea,Ukraine,frozen,0.02133413721765774,,
+Urea,Ukraine,swaps,0.02017723466481105,,0.0
+Urea,Black Sea,frozen,0.1472369053991827,,
+Urea,Black Sea,swaps,0.14707593850966494,,0.0

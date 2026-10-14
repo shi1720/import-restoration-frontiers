@@ -1,0 +1,65 @@
+{
+  "url": "https://www.cepii.fr/DATA_DOWNLOAD/baci/data/BACI_HS17_V202601.zip",
+  "size": 794583540,
+  "etag": "\"c77a9b19d68bdc1:0\"",
+  "products": [
+    "100199",
+    "100390",
+    "100590",
+    "120190",
+    "151211",
+    "310210"
+  ],
+  "members": {
+    "BACI_HS17_Y2019_V202601.csv": {
+      "sha256_uncompressed": "ba60dbeed20fa6037ff38be7a74debcd7cefe85cc1550efc574ea7e56dc2f1bf",
+      "zip_crc32": 3303033906,
+      "sha256_selected": "8aa66a45489e8b784290596eff762dc297f91d0a678619b2043c9be519988c51"
+    },
+    "BACI_HS17_Y2020_V202601.csv": {
+      "sha256_uncompressed": "9a804a0019dfe7486f8c74f56d7baba19204ef0fa5d31296b264810965ba6e6c",
+      "zip_crc32": 388644315,
+      "sha256_selected": "3e4c6ee42feedd7b5d1692c81abd3db3c8ef0dde9d5cc0c7ad58fc11d7aa248b"
+    },
+    "BACI_HS17_Y2021_V202601.csv": {
+      "sha256_uncompressed": "54d00ee06d28227c9d764b4441f88a8df5a7588557ebd9865ab9dcf30afe1d19",
+      "zip_crc32": 3189997025,
+      "sha256_selected": "a8a769ef2a238ea4cb9cf0ae00334b7f9130c22003639d8e5c863d79a731c5e9"
+    },
+    "BACI_HS17_Y2022_V202601.csv": {
+      "sha256_uncompressed": "56b005ad55ac5cd5e7090d59383e41b2ac9163a76cfd2870a042439568e80f82",
+      "zip_crc32": 1447974577,
+      "sha256_selected": "c6af8e096bd751f3a36a29c870d807a12a47d3bedffd1adc3ebe7ab1b4c98771"
+    },
+    "BACI_HS17_Y2023_V202601.csv": {
+      "sha256_uncompressed": "2b1b02bad6e757c51e7549fd1ac0b43755a7559c1b1cc522eaac139637fd09fe",
+      "zip_crc32": 3911817985,
+      "sha256_selected": "eeb6596257157d6459505e229f102cd4865d94632e8cdf8702a746fa26009b7c"
+    },
+    "BACI_HS17_Y2024_V202601.csv": {
+      "sha256_uncompressed": "0868376cd16254665e9465fd3c0ced479165c363d87cd605a2c4a50633e6e6fa",
+      "zip_crc32": 224332043,
+      "sha256_selected": "13b1d3e1b1ddec2478135db678850589ec4fd0a9fa36b93f3bc0f14b422bc8e1"
+    },
+    "BACI_HS17_Y2017_V202601.csv": {
+      "sha256_uncompressed": "86c1cd3f5e3bc20f96e228794dfcdbd321b4769f6f7448e49aece0d5b35eac21",
+      "zip_crc32": 146114744,
+      "sha256_selected": "636c7c95af98a4f5213dbc0f797589757b3388bcd11930ee96e6eac7dba5434f"
+    },
+    "BACI_HS17_Y2018_V202601.csv": {
+      "sha256_uncompressed": "c304d6e7b1a79b19677f26aec482d1deb0a2666ddaec4e1263986633319a831c",
+      "zip_crc32": 3791429650,
+      "sha256_selected": "0b81027cb56e748b4f2289bc2604ade9d862a24d7baf17816546c65f5de1da1f"
+    },
+    "country_codes_V202601.csv": {
+      "sha256_uncompressed": "c6892f28bea23d689b29b074d299cea7f5196c708b03026fbe419fa4ecb4e820",
+      "zip_crc32": 3938309728,
+      "sha256_selected": "c6892f28bea23d689b29b074d299cea7f5196c708b03026fbe419fa4ecb4e820"
+    },
+    "product_codes_HS17_V202601.csv": {
+      "sha256_uncompressed": "4abb74d330c3a1969ccfc4652e6ef849963980d55e45ad768eb54a32747efd5e",
+      "zip_crc32": 1818610596,
+      "sha256_selected": "4abb74d330c3a1969ccfc4652e6ef849963980d55e45ad768eb54a32747efd5e"
+    }
+  }
+}

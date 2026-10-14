@@ -1,0 +1,9 @@
+{
+  "year": 2019,
+  "raw_rows": 10641,
+  "missing_quantity": 99,
+  "nonpositive_quantity": 0,
+  "self_flows": 0,
+  "duplicate_rows": 0,
+  "missing_q_value_share": 0.000128443776046095
+}

@@ -1,0 +1,22 @@
+{
+  "run_date": "2026-10-14",
+  "python": "3.9.6",
+  "dependencies": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "scipy": "1.13.1",
+    "matplotlib": "3.9.4",
+    "requests": "2.32.4"
+  },
+  "source_hash_verification": "passed for 8 annual selected files and 2 metadata files",
+  "reproduction_command": "python3 reproduce.py --verify --paper",
+  "reproduction_result": "success",
+  "unit_test_groups": 5,
+  "exhaustive_random_networks": 150,
+  "release_levels_per_network": 5,
+  "annual_scenarios": 96,
+  "data_source": "CEPII BACI HS17 202601",
+  "manuscript_status": "author review required; not submitted",
+  "acceptance_status": "no claim",
+  "manuscript_sha256": "a6a0280e37d3343b60c5f3271c0b8242019b34c40fa9b171730e90c7830899a4"
+}

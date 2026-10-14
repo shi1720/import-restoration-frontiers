@@ -1,0 +1,97 @@
+product,kind,parameter,rho95
+Wheat,per_route_release,0.0,0.10792527966025657
+Wheat,per_route_release,0.01,0.10789506086445326
+Wheat,per_route_release,0.05,0.10789506076994486
+Wheat,per_route_release,0.1,0.10789506069831208
+Wheat,per_route_release,0.25,0.10789506069831073
+Wheat,per_route_release,0.5,0.10789506069831047
+Wheat,per_route_release,1.0,0.10789506069831062
+Wheat,total_withdrawal_budget,0.0,0.10792527966025715
+Wheat,total_withdrawal_budget,0.0001,0.10789506069831173
+Wheat,total_withdrawal_budget,0.0005,0.10789506069831173
+Wheat,total_withdrawal_budget,0.001,0.10789506069831173
+Wheat,total_withdrawal_budget,0.005,0.10789506069831173
+Wheat,total_withdrawal_budget,0.01,0.10789506069831173
+Wheat,total_withdrawal_budget,0.05,0.10789506069831173
+Wheat,total_withdrawal_budget,0.1,0.10789506069831173
+Wheat,total_withdrawal_budget,1.0,0.10789506069831173
+Maize,per_route_release,0.0,0.13024148913890818
+Maize,per_route_release,0.01,0.13021308916147975
+Maize,per_route_release,0.05,0.1302130849676154
+Maize,per_route_release,0.1,0.13021308229172462
+Maize,per_route_release,0.25,0.13021307426405207
+Maize,per_route_release,0.5,0.13021306088459447
+Maize,per_route_release,1.0,0.13021303412568477
+Maize,total_withdrawal_budget,0.0,0.13024148913890968
+Maize,total_withdrawal_budget,0.0001,0.1302130341256869
+Maize,total_withdrawal_budget,0.0005,0.1302130341256869
+Maize,total_withdrawal_budget,0.001,0.1302130341256869
+Maize,total_withdrawal_budget,0.005,0.1302130341256869
+Maize,total_withdrawal_budget,0.01,0.1302130341256869
+Maize,total_withdrawal_budget,0.05,0.1302130341256869
+Maize,total_withdrawal_budget,0.1,0.1302130341256869
+Maize,total_withdrawal_budget,1.0,0.1302130341256869
+Barley,per_route_release,0.0,0.1421210186864734
+Barley,per_route_release,0.01,0.13680430917251493
+Barley,per_route_release,0.05,0.12266164566761568
+Barley,per_route_release,0.1,0.12266137515807388
+Barley,per_route_release,0.25,0.12266074765652928
+Barley,per_route_release,0.5,0.1226607476202665
+Barley,per_route_release,1.0,0.12266074754773716
+Barley,total_withdrawal_budget,0.0,0.14212101868646948
+Barley,total_withdrawal_budget,0.0001,0.14198172889952956
+Barley,total_withdrawal_budget,0.0005,0.14142456975177373
+Barley,total_withdrawal_budget,0.001,0.14072812081707892
+Barley,total_withdrawal_budget,0.005,0.13515652933952058
+Barley,total_withdrawal_budget,0.01,0.1281920399925732
+Barley,total_withdrawal_budget,0.05,0.12266074754773505
+Barley,total_withdrawal_budget,0.1,0.12266074754773505
+Barley,total_withdrawal_budget,1.0,0.12266074754773505
+Soybeans,per_route_release,0.0,0.14253075740916185
+Soybeans,per_route_release,0.01,0.1334182158398219
+Soybeans,per_route_release,0.05,0.09696804956316092
+Soybeans,per_route_release,0.1,0.05140534171716929
+Soybeans,per_route_release,0.25,0.006961892407368619
+Soybeans,per_route_release,0.5,0.006961892407369033
+Soybeans,per_route_release,1.0,0.0069618924073705495
+Soybeans,total_withdrawal_budget,0.0,0.14253075740910098
+Soybeans,total_withdrawal_budget,0.0001,0.12769117343202557
+Soybeans,total_withdrawal_budget,0.0005,0.0683328375243227
+Soybeans,total_withdrawal_budget,0.001,0.0069618924073701245
+Soybeans,total_withdrawal_budget,0.005,0.0069618924073701245
+Soybeans,total_withdrawal_budget,0.01,0.0069618924073701245
+Soybeans,total_withdrawal_budget,0.05,0.0069618924073701245
+Soybeans,total_withdrawal_budget,0.1,0.0069618924073701245
+Soybeans,total_withdrawal_budget,1.0,0.0069618924073701245
+Sunflower oil,per_route_release,0.0,0.9225452005045367
+Sunflower oil,per_route_release,0.01,0.9223551446798486
+Sunflower oil,per_route_release,0.05,0.9216410818646112
+Sunflower oil,per_route_release,0.1,0.9207490584940702
+Sunflower oil,per_route_release,0.25,0.9180854959413435
+Sunflower oil,per_route_release,0.5,0.9141432393700345
+Sunflower oil,per_route_release,1.0,0.9071138820111057
+Sunflower oil,total_withdrawal_budget,0.0,0.9225452005045325
+Sunflower oil,total_withdrawal_budget,0.0001,0.9224432686833698
+Sunflower oil,total_withdrawal_budget,0.0005,0.9220355413987104
+Sunflower oil,total_withdrawal_budget,0.001,0.921525882292886
+Sunflower oil,total_withdrawal_budget,0.005,0.917448609446291
+Sunflower oil,total_withdrawal_budget,0.01,0.9123520183880475
+Sunflower oil,total_withdrawal_budget,0.05,0.9071138820111035
+Sunflower oil,total_withdrawal_budget,0.1,0.9071138820111035
+Sunflower oil,total_withdrawal_budget,1.0,0.9071138820111035
+Urea,per_route_release,0.0,0.021328553766526696
+Urea,per_route_release,0.01,0.020177840344967512
+Urea,per_route_release,0.05,0.020177234664810348
+Urea,per_route_release,0.1,0.020177234664808766
+Urea,per_route_release,0.25,0.0201772346648095
+Urea,per_route_release,0.5,0.02017723466480991
+Urea,per_route_release,1.0,0.02017723466481093
+Urea,total_withdrawal_budget,0.0,0.021328553766528754
+Urea,total_withdrawal_budget,0.0001,0.02122229429558523
+Urea,total_withdrawal_budget,0.0005,0.020797256411811408
+Urea,total_withdrawal_budget,0.001,0.020265959057094274
+Urea,total_withdrawal_budget,0.005,0.020177234664810903
+Urea,total_withdrawal_budget,0.01,0.020177234664810903
+Urea,total_withdrawal_budget,0.05,0.020177234664810903
+Urea,total_withdrawal_budget,0.1,0.020177234664810903
+Urea,total_withdrawal_budget,1.0,0.020177234664810903
